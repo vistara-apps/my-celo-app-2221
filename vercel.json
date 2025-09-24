@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "framework": "Next.js",
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "installCommand": "npm install",
+  "functions": {},
+  "env": {
+    "NODE_ENV": "production",
+    "API_URL": "https://api.example.com",
+    "PROJECT_ID": "my-celo-app-2221"
+  }
+}
